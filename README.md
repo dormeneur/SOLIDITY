@@ -1,2 +1,2 @@
 # SOLIDITY
-Blockchain stuff
+Learning Blockchain cause it's COOL!
