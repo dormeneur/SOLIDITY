@@ -1,2 +1,2 @@
 # SOLIDITY
-Learning Blockchain cause it's COOL!
+Learning blockchain cause it's cool!
